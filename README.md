@@ -17,8 +17,8 @@ Quick install and compile
 
 run:
 
-  $ git clone https://github.com/shengliwang/viewcode.git
-  $ gcc viewcode.c -o viewcode
+  $ git clone https://github.com/shengliwang/viewcode.git<br>
+  $ gcc viewcode.c -o viewcode<br>
 
 
 

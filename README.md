@@ -5,26 +5,19 @@ Compile this source code, you will get the program name viewcode.
 Then, you can move this viewcode program to your PATH environments.
 Use this program you can see something like as follows:
 
-index	:int	,char
-1	    :102	,f
-2	    :114	,r
-3	    :111	,o
-4	    :109	,m
-5	    :32	, 
-6	    :101	,e
-7	    :122	,z
-8	    :95	  ,_
-
-Li
+Licese
+------
+You can edit or republic this code.
 
 
 
 
-Quick compile
+Quick install and compile
 -------------
 
 run:
 
+  $ git clone https://github.com/shengliwang/viewcode.git
   $ gcc viewcode.c -o viewcode
 
 
